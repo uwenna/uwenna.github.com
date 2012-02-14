@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Amala Anne Wu]]></title>
   <link href="http://uwenna.github.com/atom.xml" rel="self"/>
   <link href="http://uwenna.github.com/"/>
-  <updated>2012-02-13T23:27:36-05:00</updated>
+  <updated>2012-02-13T23:43:12-05:00</updated>
   <id>http://uwenna.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Anne Y Wu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://uwenna.github.com/blog/2012/02/13/hello-world/"/>
+    <updated>2012-02-13T23:41:00-05:00</updated>
+    <id>http://uwenna.github.com/blog/2012/02/13/hello-world</id>
+    <content type="html"><![CDATA[<p> testing 123</p>
+]]></content>
+  </entry>
   
 </feed>
